@@ -76,6 +76,7 @@ Overrides:
 ## 💻 Code
 
 ```python id="x7m2pl"
+
 class Employee:
     def __init__(self):
         self.name = ""
