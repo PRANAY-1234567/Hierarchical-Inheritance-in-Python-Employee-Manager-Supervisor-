@@ -222,3 +222,6 @@ super().set_data(name, code)
 ## 📄 License
 
 This project is open-source and free to use.
+
+
+<img width="1286" height="846" alt="image" src="https://github.com/user-attachments/assets/983cd530-33bf-4aeb-9ee4-74699574dfe1" />
