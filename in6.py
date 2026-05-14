@@ -11,7 +11,6 @@ class Employee:
         print("Name   :", self.name)
         print("Code   :", self.code)
 
-
 class Manager(Employee):
     def __init__(self):
         super().__init__()
